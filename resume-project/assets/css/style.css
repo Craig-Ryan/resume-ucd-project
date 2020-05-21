@@ -10,6 +10,10 @@
     background-color: #fff;
 }
 
+.bg-color-personal-info {
+    background-color: #f4f4f4;
+}
+
 .ui-menu-color-home {
   background-color: #e67e22;
 }
@@ -47,7 +51,7 @@ h4 {
     display: inline-block;
 }
 
-.row-table { /*Put here in general css as it will be used more than once in the porject*/
+.row-table { /*Put here in general css as it will be used more than once in the project*/
     display: table;
 }
  
@@ -166,6 +170,10 @@ footer {
     margin: 0;
 }
 
+.general-sub {
+    margin-top: 25px;
+}
+
 .cv-pdf i {
     font-size: 18px;
     color: #fafafa;
@@ -208,4 +216,15 @@ footer {
 
 #footer-details {
     padding: 20px;
+}
+
+/* -----------------------------------Three Reasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+    margin-bottom: 15px;
 }
